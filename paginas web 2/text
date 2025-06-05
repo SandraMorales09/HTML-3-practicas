@@ -1,0 +1,54 @@
+element.style {
+}
+header {
+    @media (max-width: 768px) {
+        padding: 30px;
+    }
+}
+header {
+    border-bottom: 1px solid #f3f2f4;
+    padding: 30px 50px;
+    display: flex
+;
+    justify-content: space-between;
+    align-items: center;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+:root {
+    --color-primary: #a2efff;
+    --color-secondary: #63e2ff;
+    --color-tertiary: #f6716e;
+    --rounded-xl: 40px;
+    --rounded-lg: 30px;
+    --rounded-md: 15px;
+}
+:host, :root {
+    --fa-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em / 1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em / 1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-style-family-brands
+"Font Awesome 6 Brands"
+: "Font Awesome 6 Brands";
+    --fa-font-brands: normal 400 1em / 1 "Font Awesome 6 Brands";
+}
+
+﻿
+﻿
+
+
