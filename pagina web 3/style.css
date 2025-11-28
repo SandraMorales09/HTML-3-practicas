@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(to right, black, rgb(47, 79, 79));
+}
+
+.image {
+    background-image: utl("img/logo cafeteria.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    color: #000000;
+    margin-right: 50px;
+}
+
+/*este id  es el titulo*/
+
+
+
+body {
+        background: linear-gradient(to right, black, rgb(47, 79, 79));
+    }
+
+    .text-0-0{
+      margin-top: 100px;
+      display: flex;
+      padding: 25px;
+      color: #ff4500;
+      justify-content: center;
+    }
+
+  .text-0-0 {
+            font-family: 'Arial Narrow';
+            font-size: 40px;
+            text-transform: 600;
+            text-shadow: 2px 5px #000;
+        }   
